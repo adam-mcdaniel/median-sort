@@ -1,5 +1,6 @@
 ASSIGNMENT.pdf
 /target
+.ipynb_checkpoints/**/*
 *.tex
 *.aux
 *.log
@@ -8,3 +9,4 @@ ASSIGNMENT.pdf
 *.synctex.gz
 *.out
 *.lock
+*.txt
